@@ -1,0 +1,34 @@
+body {
+    width: 600px;    
+}
+
+h1 {
+    text-align: center;
+    font-family: helvetica;
+}
+
+.title {
+    background-color: gray;   
+    font-family: Times;
+    font-family: Geneva, Tahoma, sans-serif;
+    padding-left: 10px;   
+}
+
+h2{
+    padding: 8px 0;    
+}
+
+img{
+    width: 140px;
+    display: inline;
+    float: left;
+    margin-top: 15px;
+}
+
+p {
+    text-align: justify;
+}
+
+.content {    
+    padding:0 60px;
+}
